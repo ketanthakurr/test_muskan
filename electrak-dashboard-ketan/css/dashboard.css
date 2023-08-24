@@ -1,0 +1,47 @@
+.electrak-logo {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    mix-blend-mode: difference;
+}
+
+#welcome_text {
+    font-size: 1rem;
+}
+
+#energyTip {
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+}
+
+#summary-card {
+    background-color: #a4d55c;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.export_btn {
+    background-color: #a4d55c;
+    color: black;
+}
+
+.export_btn:hover {
+    background-color: #a4d55c;
+    color: black;
+}
+
+.name {
+    color: black
+}
+
+/* #sidebar,
+#nav-top {
+    background-color: #232227;
+}
+
+#navbar-toggler {
+    color: white;
+} */
+.btn-group button.active {
+    background-color: #a4d55c;
+}
